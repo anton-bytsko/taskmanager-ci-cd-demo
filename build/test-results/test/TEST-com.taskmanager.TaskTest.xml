@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.taskmanager.TaskTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-13T15:19:28" hostname="LAPTOP-8VV4GQQF" time="0.027">
+<testsuite name="com.taskmanager.TaskTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-13T15:35:56" hostname="LAPTOP-8VV4GQQF" time="0.007">
   <properties/>
-  <testcase name="testToString" classname="com.taskmanager.TaskTest" time="0.026"/>
+  <testcase name="testToString" classname="com.taskmanager.TaskTest" time="0.007"/>
   <testcase name="testCompleteTask" classname="com.taskmanager.TaskTest" time="0.0"/>
-  <testcase name="testTaskCreation" classname="com.taskmanager.TaskTest" time="0.001"/>
+  <testcase name="testTaskCreation" classname="com.taskmanager.TaskTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
