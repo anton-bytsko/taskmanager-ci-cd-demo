@@ -13,18 +13,5 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
 }
 
-// Измените с 11 на 17
-sourceCompatibility = JavaVersion.VERSION_17
-targetCompatibility = JavaVersion.VERSION_17
-
-// Добавьте для совместимости
-tasks.withType(JavaCompile) {
-    options.encoding = 'UTF-8'
-}
-
-test {
-    useJUnit()
-    testLogging {
-        events "passed", "skipped", "failed"
-    }
-}
+sourceCompatibility = '11'
+targetCompatibility = '11'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.taskmanager.TaskManagerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-01-13T15:19:28" hostname="LAPTOP-8VV4GQQF" time="0.009">
+  <properties/>
+  <testcase name="testCompleteTaskInvalidIndex" classname="com.taskmanager.TaskManagerTest" time="0.007"/>
+  <testcase name="testAddTask" classname="com.taskmanager.TaskManagerTest" time="0.0"/>
+  <testcase name="testGetCompletedTasks" classname="com.taskmanager.TaskManagerTest" time="0.0"/>
+  <testcase name="testRemoveTask" classname="com.taskmanager.TaskManagerTest" time="0.0"/>
+  <testcase name="testGetPendingTasks" classname="com.taskmanager.TaskManagerTest" time="0.0"/>
+  <testcase name="testCompleteTaskByIndex" classname="com.taskmanager.TaskManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
